@@ -1,3 +1,6 @@
 <Solution>
   <Project Path="AlgorithmLab.Api/AlgorithmLab.Api.csproj" />
+  <Project Path="AlgorithmLab.Application/AlgorithmLab.Application.csproj" Id="1207146e-787b-40da-8ff2-9ba888b77e63" />
+  <Project Path="AlgorithmLab.Domain/AlgorithmLab.Domain.csproj" Id="7b1ae583-9f66-4c80-98c0-22419f2a897a" />
+  <Project Path="AlgorithmLab.Infrastructure/AlgorithmLab.Infrastructure.csproj" Id="f2228ab6-7453-492e-91b4-8b301fafdd90" />
 </Solution>

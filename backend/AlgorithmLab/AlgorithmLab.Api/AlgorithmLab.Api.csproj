@@ -11,4 +11,9 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="10.3.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\AlgorithmLab.Application\AlgorithmLab.Application.csproj" />
+    <ProjectReference Include="..\AlgorithmLab.Infrastructure\AlgorithmLab.Infrastructure.csproj" />
+  </ItemGroup>
+
 </Project>
